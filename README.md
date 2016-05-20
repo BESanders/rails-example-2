@@ -1,1 +1,3 @@
-# rails-example-2
+# Blog
+
+Sample blog demonstrating a baseline Rails configuration
